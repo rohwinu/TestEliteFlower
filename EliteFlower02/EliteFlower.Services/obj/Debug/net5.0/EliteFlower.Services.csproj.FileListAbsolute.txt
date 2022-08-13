@@ -1,0 +1,17 @@
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.csproj.AssemblyReference.cache
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.AssemblyInfoInputs.cache
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.AssemblyInfo.cs
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.csproj.CoreCompileInputs.cache
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Services.deps.json
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Services.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\ref\EliteFlower.Services.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Services.pdb
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Core.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Data.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Core.pdb
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\bin\Debug\net5.0\EliteFlower.Data.pdb
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.csproj.CopyComplete
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\ref\EliteFlower.Services.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Services\obj\Debug\net5.0\EliteFlower.Services.pdb

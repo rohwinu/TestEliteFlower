@@ -1,0 +1,12 @@
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\bin\Debug\net5.0\EliteFlower.Core.deps.json
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\bin\Debug\net5.0\EliteFlower.Core.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\bin\Debug\net5.0\ref\EliteFlower.Core.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\bin\Debug\net5.0\EliteFlower.Core.pdb
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.csproj.AssemblyReference.cache
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.AssemblyInfoInputs.cache
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.AssemblyInfo.cs
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.csproj.CoreCompileInputs.cache
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\ref\EliteFlower.Core.dll
+C:\Users\rohwi\Desktop\TestEliteFlowers\Miercoles\EliteFlower02\EliteFlower.Core\obj\Debug\net5.0\EliteFlower.Core.pdb
